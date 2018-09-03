@@ -1,0 +1,26 @@
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csprojResolveAssemblyReference.cache
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.Cache
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.PerfectGarden.resources
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.ALLClient.resources
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.SearchClient.resources
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.FQ1_Q2.resources
+C:\Users\pc facebook\Desktop\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.FQAB.resources
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csprojResolveAssemblyReference.cache
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.ALLClient.resources
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.FQ1_Q2.resources
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.SearchClient.resources
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.Cache
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.EazyShape.resources
+C:\Users\Tareq\Desktop\סמסטר ו\מסדי נתונים\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.FQ12.resources
